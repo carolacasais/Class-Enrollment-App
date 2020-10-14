@@ -1,4 +1,4 @@
-# Class-Enrollment-App
+# Class Enrollment App
 
 1. **Nombres y apellidos:** Carola Casais Recondo
 2. **Fecha:** Miércoles 14 de octubre de 2020
